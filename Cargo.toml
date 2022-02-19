@@ -1,0 +1,8 @@
+[package]
+name = "autotest-6900"
+version = "0.1.0-alpha.0"
+edition = "2021"
+license-file = "LICENSE"
+description = "The best autotester in existence"
+
+[dependencies]
